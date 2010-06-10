@@ -1,0 +1,23 @@
+GReader-Checker: v1.00
+The GReader-Checker extension for Safari 5 is based off of the work of both Victor Adrée and Alejandro JL. I combined both of their codes and implemented my own icons and settings to give the best user experience when using the extension. I based my icons off of Matt Brett’s RSS feed icon.
+
+What GReader-Checker does:
+- Updates a toolbar icon when there is a new feed item in Google Reader.
+- This updates you on your total unread count.
+
+What GReader-Checker might do in the future:
+- Allow you to pick which feeds you want to be updated.
+- Enter a custom update time
+
+Why should you use GReader-Checker?
+- It works
+- It’s pretty
+- It has more options than others out there
+
+Credits: 
+Victor Adrée
+Alejandro JL
+Matt Brett
+
+How to Install: 
+Enable Safari Extensions and then double click to install the extension after downloading.
