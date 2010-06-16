@@ -24,6 +24,8 @@ Enable Safari Extensions and then double click to install the extension after do
 
 
 Changelog:
+v1.02 - June 16, 2010
+- Open Google Reader in current tab if on blank or Top Sites. Special thanks to Nicholas Helke (<a href="http://twitter.com/nHelke">@nHelke on Twitter</a>) for his patch. 
 
 v1.01 - June 12, 2010
 - Switches to an open Google Reader tab and creates a new one if there is none open.
