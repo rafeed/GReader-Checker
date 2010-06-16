@@ -1,4 +1,4 @@
-GReader-Checker: v1.00
+GReader-Checker: v1.02
 The GReader-Checker extension for Safari 5 is based off of the work of both Victor Adrée and Alejandro JL. I combined both of their codes and implemented my own icons and settings to give the best user experience when using the extension. I based my icons off of Matt Brett’s RSS feed icon.
 
 What GReader-Checker does:
